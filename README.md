@@ -1,2 +1,2 @@
 # first-project
-Zmiana first-branch
+Zmiana second-branch
